@@ -1,0 +1,7 @@
+{
+  "name": "vision",
+  "description": "截图 + 视觉模型分析 MCP 服务器。支持截全屏/主屏幕/指定窗口，使用阿里云 DashScope qwen-vl-plus 云端模型分析，Ollama 本地模型备用。后台截取不干扰前台窗口。",
+  "author": {
+    "name": "Leyaidi Shc"
+  }
+}

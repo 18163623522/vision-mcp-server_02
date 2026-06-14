@@ -1,0 +1,9 @@
+{
+  "vision": {
+    "command": "node",
+    "args": ["server.mjs"],
+    "env": {
+      "DASHSCOPE_API_KEY": "${DASHSCOPE_API_KEY}"
+    }
+  }
+}
