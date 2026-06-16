@@ -13,13 +13,13 @@
 
 ## 安装
 
-### 方式一：Claude Code 插件安装
+### 步骤一：Claude Code 插件安装
 
 ```bash
 claude /plugin install github.com/你的用户名/vision-mcp-server
 ```
 
-### 方式二：手动配置
+### 步骤二：手动配置
 
 在 `~/.mcp.json` 中添加：
 
